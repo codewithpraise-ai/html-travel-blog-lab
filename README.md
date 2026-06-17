@@ -18,8 +18,7 @@ For this lab, imagine you are creating a travel blog and want to build a webpage
 ## Setup Steps
 
 ### Lab Setup 1: Fork Lab Repository
-
-Fork the [GitHub lab repository](https://github.com/learn-co-curriculum/html-travel-blog-lab) provided to your own GitHub account. This will create a personal copy of the repository, which is necessary to submit the assignment.
+pcount. This will create a personal copy of the repository, which is necessary to submit the assignment.
 
 ### Lab Setup 2: Clone the Lab Repository with Git
 
